@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm João Marcos.
 
 - 🔭 I’m a intern in CSN
-- 🌱 I’m currently learning C#, JavaScript, Typescript, SAP and SQL
+- 🌱 I’m currently learning C#, .Net, JavaScript, Typescript, React, SAP and SQL
 - 📫 How to reach me: joao.santanna99@gmail.com 
 
 <div>
